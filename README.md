@@ -1,5 +1,5 @@
 # Functional JavaScript Programming
-##### By Luis Atencio
+##### By Luis Atencio & Alberto Eyo
 
 ##Update
 *Code has been changed and fixed for Errata purposes, GitHub issues, and ES6 updates.*
